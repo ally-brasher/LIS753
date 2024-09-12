@@ -1,0 +1,23 @@
+h1 {
+    color:purple; 
+    font-family: Helvetica; 
+    font-size: 75px;
+  }
+  header p {
+    background-color: #91B585; 
+    color: white; 
+    font-size: 20px;
+  }
+  figure {
+    border: 3px solid black;
+      padding: 45px;
+  }
+  figure img {
+    max-width: 100%; 
+    height: auto; 
+  }
+  article p{
+    background-color: #ce81ff; 
+    color: black;
+    font-size: 15px;  
+  }
