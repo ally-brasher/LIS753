@@ -21,9 +21,13 @@ h1 {
     color: black;
     font-size: 15px;  
   }
-  a {
+  a{
     font-weight: bold;
     color: black;
     background-color: #ce81ff;
-    list-style: none;
+    
+    }
+    ul li a{
+      text-decoration: none;
+      list-style: none;
     }
