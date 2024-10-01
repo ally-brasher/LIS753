@@ -5,7 +5,7 @@
   }
   
   #article-title {
-    color:greenyellow;
+    color:rgb(63, 101, 5);
     font-family: sans-serif;
     font-size: 50px;
   }
@@ -24,7 +24,7 @@
   }
   .subheading {
     font-size: 30px;
-    color:cadetblue
+    color:cadetblue;
   }
   article p{
     background-color: #ce81ff; 
