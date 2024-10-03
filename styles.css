@@ -37,8 +37,9 @@
     font-weight: bold;
     color: black;
     background-color: #ce81ff;
-    text-decoration: none;
-    list-style: none;
     text-align: center;
     }
-    
+    ul li a{
+      text-decoration: none;
+      list-style: none;
+    }
