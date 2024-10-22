@@ -1,3 +1,4 @@
+html {background-color: lightblue}
 #site-title {
     color:purple; 
     font-family: Helvetica; 
@@ -23,6 +24,10 @@
   figure img {
     max-width: 100%; 
     height: auto; 
+  }
+  .subheading {
+    font-size: 30px;
+    color:#53820D;
   }
   article p{
     background-color: #ce81ff; 
