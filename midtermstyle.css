@@ -27,16 +27,15 @@
   }
   .subheading {
     font-size: 30px;
-    color:#53820D;
+    color:darkorchid;
   }
-  article p{
-    background-color: #ce81ff; 
+  article p{ 
     color: black;
     font-size: 15px;  
   }
   div p{
     width: 100%;
-    background-color: red;
+    background-color:darkgreen;
     color: white;
     text-align: center;
   }
