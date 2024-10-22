@@ -1,0 +1,36 @@
+#site-title {
+    color:purple; 
+    font-family: Helvetica; 
+    font-size: 75px;
+    text-align: center;
+  }
+  a{
+    font-weight: bold;
+    color: black;
+    background-color: #ce81ff;
+    }
+  header p {
+    background-color: #91B585; 
+    color: black; 
+    font-size: 20px;
+    text-align: center;
+  }
+  figure {
+    border: 3px solid black;
+      padding: 45px;
+  }
+  figure img {
+    max-width: 100%; 
+    height: auto; 
+  }
+  article p{
+    background-color: #ce81ff; 
+    color: black;
+    font-size: 15px;  
+  }
+#footer { 
+    position: absolute; 
+    bottom: 0; 
+    left: 0; 
+    z-index: 10;
+}
