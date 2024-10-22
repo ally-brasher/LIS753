@@ -1,6 +1,6 @@
 * {background-color: lightblue}
 #site-title {
-    color:purple; 
+    color:rgb(247, 247, 66); 
     font-family: Helvetica; 
     font-size: 75px;
     text-align: center;
@@ -27,7 +27,7 @@
   }
   .subheading {
     font-size: 30px;
-    color:darkorchid;
+    color:darkslateblue;
   }
   article p{ 
     color: black;
