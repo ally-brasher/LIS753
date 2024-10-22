@@ -1,6 +1,6 @@
 * {background-color: lightblue}
 #site-title {
-    color:rgb(247, 247, 66); 
+    color:darkmagenta; 
     font-family: Helvetica; 
     font-size: 75px;
     text-align: center;
@@ -18,7 +18,7 @@
     text-align: center;
   }
   figure {
-    border: 3px solid black;
+    border: 3px solid darkslateblue;
       padding: 45px;
   }
   figure img {
@@ -27,7 +27,7 @@
   }
   .subheading {
     font-size: 30px;
-    color:darkslateblue;
+    color:darkolivegreen;
   }
   article p{ 
     color: black;
