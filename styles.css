@@ -54,3 +54,13 @@
     justify-content: center;
     gap: 30 px;
 } }
+@media all and (min-width:376px){
+  #site-title { 
+    font-size: 75px;
+  }
+}
+@media all and (max-width: 375px) {
+  #site-title { 
+    font-size: 50px;
+  }
+}
