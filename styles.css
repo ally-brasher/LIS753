@@ -43,6 +43,9 @@
     background-color: #ce81ff;
     }
     ul li a{
+      display: flex;
+      justify-content: center;
+      gap: 30 px;
       text-decoration: none;
       list-style: none;
       text-align: center;
