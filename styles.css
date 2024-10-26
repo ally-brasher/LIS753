@@ -2,6 +2,7 @@
     color:purple; 
     font-family: Helvetica; 
     text-align: center;
+    font-size: 75px;
   }
   
   #article-title {
@@ -53,13 +54,7 @@
     justify-content: center;
     gap: 30 px;
 } }
-@media all and (min-width:377px){
-  #site-title { 
-    font-size: 75px;
-  }
-}
 @media all and (max-width: 376px) {
-  #site-title { 
-    font-size: 50px;
-  }
+  div.hide
+  {display: none;}
 }
