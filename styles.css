@@ -41,12 +41,16 @@
     font-weight: bold;
     color: black;
     background-color: #ce81ff;
+    text-decoration: none;
     }
     ul li a{
-      display: flex;
-      justify-content: center;
-      gap: 30 px;
       text-decoration: none;
       list-style: none;
       text-align: center;
     }
+@media all and (min-width: 376px) {
+  ul li a{
+    display: flex;
+    justify-content: center;
+    gap: 30 px;
+} }
