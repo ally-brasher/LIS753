@@ -24,6 +24,10 @@
     max-width: 100%; 
     height: auto; 
   }
+  img {
+    max-width: 100%; 
+    height: auto; 
+  }
   .subheading {
     font-size: 30px;
     color:#53820D;
