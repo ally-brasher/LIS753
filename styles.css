@@ -42,10 +42,11 @@
     color: black;
     background-color: #ce81ff;
     text-decoration: none;
+    text-align: center;
     }
     ul li a{
       text-decoration: none;
-      list-style: none;
+      list-style-type: style none; ;
       text-align: center;
     }
 @media all and (min-width: 376px) {
