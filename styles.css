@@ -46,8 +46,11 @@
     }
     ul li a{
       text-decoration: none;
-      list-style-type: style none; ;
+      list-style: none;
       text-align: center;
+    }
+    ul {
+      list-style-type: none;
     }
 @media all and (min-width: 376px) {
   ul li a{
